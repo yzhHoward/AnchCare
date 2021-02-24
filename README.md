@@ -16,6 +16,8 @@ http://47.93.42.104/covid/240. (Mortality)<br>
 The Tongji Hospital COVID-19 dataset is introduced at: https://www.nature.com/articles/s42256-020-0180-7
 
 ## Case Observation
+Avg. LOS risk score of clusters visited by the case patient 63
+
 | Record | Date      | Cluster ID | Condition          | Avg. LOS Risk | #Records |      Important Features      |
 | :----: | :-------: | :--------: | :----------------: | :-----------: | :-------------: | :--------------------------: |
 |   0    | Feb.4     | 3          | Low Risk        | 23.413        | 55   |   Hgb, pH   |
